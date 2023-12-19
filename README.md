@@ -11,11 +11,75 @@ Je suis développeur web junior
 
 ## Mes projets :
 
-###  **1 - La page CV (https://tenzamickael.github.io/Projet2-Cv/)**
-![mage_cv (1)](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/032c9043-17c6-458e-b9eb-bf0352b75488)
-### Description :
-<p>C'est un projet codés en HTML et CSS pour simuler un CV</p>
+### 1 - CV (https://tenzamickael.github.io/Projet2-Cv/) 
+
+<br/>
+
+![CV](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/675cb66a-72de-4572-ad62-81d8162425b9)
+<p>C'est un projet codés en HTML et CSS pour simuler un CV en ligne</p>
+
 <br />
+<br />
+
+### 2 - OhMyFood (https://tenzamickael.github.io/projet3-ohmyfood/)
+
+<br/>
+
+![ohmyfood](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/eb58ea85-1001-45af-859e-7f50905215d1)
+<p> Carte d'un restaurant avec 4 menus codé en HTML, CSS et en SCSS </p>
+
+<br/>
+<br/>
+
+### 3 - Optimisation SEO d'un ancien site internet 
+
+<br>
+
+<p> Ancien site (https://tenzamickael.github.io/projet4-site_orginal/) </p>
+
+![SEO_orginal](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/b2b2e41d-c8bd-4880-8345-caa88606c2ba)
+
+<br/>
+
+<p> Version optimisé (https://tenzamickael.github.io/projet4-site_optimise_SEO/) </p>
+
+![SEO_optimise](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/7ad5ef3e-0c89-4b62-b542-e5297cd7e430)
+<p> C'est un ancien site internet qui a été optimé au niveau du SEO avec :  </p>
+
+  * Une meilleur accessibilités 
+  * Optimisation des ressources et des dossiers
+  * Visuel retravaillé
+  * Mise en avant de mot clés pour le robot de google
+
+<br/>
+<br/>
+
+### 4 - Orinocco - front-end (https://github.com/TenzaMickael/projet5-orinocco)
+
+<br/>
+
+![Site_e_commerce](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/0eaa7e47-3711-40c6-a308-02fcb739cfbf)
+<p> Codage de la partie front-end d'un site e-commerce avec des appelles d' APIS en : 
+  
+* Javascript
+* HTML
+* CSS
+* Node
+* NPM
+
+<br/>
+<br/>
+
+### 5 - Piquante - back-end (https://github.com/TenzaMickael/projet5-orinocco)
+
+Pour le faire fonctionner : => Avoir node et npm d'installer sur la machine => Se positionner dans le dossier du projet et faire un : git clone https://github.com/OpenClassrooms-Student-Center/JWDP5 (ce qui récupère le back-end du projet) => Faire un npm install / update / upgrade => Ensuite on lance le serveur avec : node server</p>
+
+
+
+  
+
+
+
 
 ## Skills
 
