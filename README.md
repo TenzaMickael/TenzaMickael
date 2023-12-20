@@ -101,8 +101,6 @@ Je suis développeur web junior
 * HTML
 * CSS
 * react
-  
-<br/>
 
 <p> Back-end : </p>
 
