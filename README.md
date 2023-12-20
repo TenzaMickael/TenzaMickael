@@ -16,7 +16,7 @@ Je suis développeur web junior
 <br/>
 
 ![CV](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/675cb66a-72de-4572-ad62-81d8162425b9)
-<p>C'est un projet codés en HTML et CSS pour simuler un CV en ligne</p>
+<p> C'est un projet codés en HTML et CSS pour simuler un CV en ligne </p>
 
 <br />
 <br />
@@ -26,7 +26,11 @@ Je suis développeur web junior
 <br/>
 
 ![ohmyfood](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/eb58ea85-1001-45af-859e-7f50905215d1)
-<p> Carte d'un restaurant avec 4 menus codé en HTML, CSS et en SCSS </p>
+<p> Carte d'un restaurant avec 4 menus codé en : </p>
+
+* HTML
+* CSS
+* SCSS
 
 <br/>
 <br/>
@@ -70,16 +74,43 @@ Je suis développeur web junior
 <br/>
 <br/>
 
-### 5 - Piquante - back-end (https://github.com/TenzaMickael/projet5-orinocco)
+### 5 - Piquante - back-end (https://github.com/TenzaMickael/Projet6-Piquante)
 
-Pour le faire fonctionner : => Avoir node et npm d'installer sur la machine => Se positionner dans le dossier du projet et faire un : git clone https://github.com/OpenClassrooms-Student-Center/JWDP5 (ce qui récupère le back-end du projet) => Faire un npm install / update / upgrade => Ensuite on lance le serveur avec : node server</p>
+<br/>
 
+![piquante](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/868c0560-e06f-4013-a66f-04a6f8a9c721)
+<p> Codage d'une API sécurisée au niveau de la partie back-end pour une application d'avis gastronomique de sauces avec : </p>
 
+* NodeJs
+* Javascript
+* mongoDb
+* express
+* NPM
 
+<br/>
+<br/>
+
+### 6 - Groupomania (https://github.com/TenzaMickael/projet7-groupomania) - **_Non terminé_**
+
+<br/>
+
+<p> Codage d'un réseau social d'entreprise de A à Z avec : </p>
+
+<p> Front-end : </p>
+
+* HTML
+* CSS
+* react
   
+<br/>
 
+<p> Back-end : </p>
 
-
+* Mysql
+* Javascript
+  
+<br/>
+<br/>
 
 ## Skills
 
