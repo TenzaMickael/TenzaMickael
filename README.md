@@ -9,7 +9,7 @@ Je suis développeur web junior
 * 🧠  En ce moment je recherche une alternance pour la formation d' intégrateur web 
 <br />
 
-## Mes projets :
+## Mes projets en développement web :
 
 ### 1 - CV (https://tenzamickael.github.io/Projet2-Cv/) 
 
@@ -18,7 +18,6 @@ Je suis développeur web junior
 ![CV](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/675cb66a-72de-4572-ad62-81d8162425b9)
 <p> C'est un projet codés en HTML et CSS pour simuler un CV en ligne </p>
 
-<br />
 <br />
 
 ### 2 - OhMyFood (https://tenzamickael.github.io/projet3-ohmyfood/)
@@ -32,7 +31,6 @@ Je suis développeur web junior
 * CSS
 * SCSS
 
-<br/>
 <br/>
 
 ### 3 - Optimisation SEO d'un ancien site internet 
@@ -56,7 +54,6 @@ Je suis développeur web junior
   * Mise en avant de mot clés pour le robot de google
 
 <br/>
-<br/>
 
 ### 4 - Orinocco - front-end (https://github.com/TenzaMickael/projet5-orinocco)
 
@@ -72,7 +69,6 @@ Je suis développeur web junior
 * NPM
 
 <br/>
-<br/>
 
 ### 5 - Piquante - back-end (https://github.com/TenzaMickael/Projet6-Piquante)
 
@@ -87,7 +83,6 @@ Je suis développeur web junior
 * express
 * NPM
 
-<br/>
 <br/>
 
 ### 6 - Groupomania (https://github.com/TenzaMickael/projet7-groupomania) - **_Non terminé_**
@@ -108,6 +103,9 @@ Je suis développeur web junior
 * Javascript
   
 <br/>
+
+## Mes projets en language Python :
+
 <br/>
 
 ## Skills
