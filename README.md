@@ -104,7 +104,8 @@ Je suis développeur web junior
   
 <br/>
 
-## Mes projets en language Python :
+## Mes projets en language Python : _en construction_
+https://www.udemy.com/course/developpeur-python-formation-complete/
 
 <br/>
 
