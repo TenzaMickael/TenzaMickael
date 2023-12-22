@@ -104,8 +104,12 @@ Je suis développeur web junior
   
 <br/>
 
-## Mes projets en language Python : _en construction_
-https://www.udemy.com/course/developpeur-python-formation-complete/
+## Mes projets en language Python : (https://github.com/TenzaMickael/Divers_scripts_python)
+
+![python](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/d90d46a9-4f27-41bd-85ba-59674e3d7bf4)
+
+<p> Dans ce projet on y retrouve plusieurs scripts Python que j'ai appris durant ma formation Python sur Udemy </p>
+
 
 <br/>
 
