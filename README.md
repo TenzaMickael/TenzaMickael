@@ -10,21 +10,22 @@ Je suis développeur web junior
 <br />
 
 ## Mes projets en développement web :
-
-### 1 - CV (https://tenzamickael.github.io/Projet2-Cv/) 
-
 <br/>
 
+## CV (https://tenzamickael.github.io/Cv/) 
 ![CV](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/675cb66a-72de-4572-ad62-81d8162425b9)
 <p> C'est un projet codés en HTML et CSS pour simuler un CV en ligne </p>
 
 <br />
 
-### 2 - OhMyFood (https://tenzamickael.github.io/projet3-ohmyfood/)
+## Robbie Lens (https://tenzamickael.github.io/Robbie_Lens_Photographie/)
+![robbi lence](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/9cc358ff-10c1-4da9-ba74-34aa02998e91)
+<p> C'est un projet codés en HTML et CSS d'une professionnelle dans le milieux de la photographie d'après le cours sur Openclassrooms</p>
 
 <br/>
 
-![ohmyfood](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/eb58ea85-1001-45af-859e-7f50905215d1)
+## OhMyFood V1 (https://tenzamickael.github.io/Ohmyfood-V1/)
+![ohmyfood V1](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/eb58ea85-1001-45af-859e-7f50905215d1)
 <p> Carte d'un restaurant avec 4 menus codé en : </p>
 
 * HTML
@@ -33,17 +34,14 @@ Je suis développeur web junior
 
 <br/>
 
-### 3 - Optimisation SEO d'un ancien site internet 
-
-<br>
-
-<p> Ancien site (https://tenzamickael.github.io/projet4-site_orginal/) </p>
+## Optimisation SEO d'un ancien site internet 
+<p> Ancien site (https://tenzamickael.github.io/SEO-site_orginal/) </p>
 
 ![SEO_orginal](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/b2b2e41d-c8bd-4880-8345-caa88606c2ba)
 
 <br/>
 
-<p> Version optimisé (https://tenzamickael.github.io/projet4-site_optimise_SEO/) </p>
+<p> Version optimisé (https://tenzamickael.github.io/SEO-site_optimise/) </p>
 
 ![SEO_optimise](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/7ad5ef3e-0c89-4b62-b542-e5297cd7e430)
 <p> C'est un ancien site internet qui a été optimé au niveau du SEO avec :  </p>
@@ -55,10 +53,7 @@ Je suis développeur web junior
 
 <br/>
 
-### 4 - Orinocco - front-end (https://github.com/TenzaMickael/projet5-orinocco)
-
-<br/>
-
+## Orinocco - front-end (https://github.com/TenzaMickael/Orinocco)
 ![Site_e_commerce](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/0eaa7e47-3711-40c6-a308-02fcb739cfbf)
 <p> Codage de la partie front-end d'un site e-commerce avec des appelles d' APIS en : 
   
@@ -70,10 +65,7 @@ Je suis développeur web junior
 
 <br/>
 
-### 5 - Piquante - back-end (https://github.com/TenzaMickael/Projet6-Piquante)
-
-<br/>
-
+## Piquante - back-end (https://github.com/TenzaMickael/Piquante)
 ![piquante](https://github.com/TenzaMickael/TenzaMickael/assets/62792452/868c0560-e06f-4013-a66f-04a6f8a9c721)
 <p> Codage d'une API sécurisée au niveau de la partie back-end pour une application d'avis gastronomique de sauces avec : </p>
 
@@ -85,12 +77,8 @@ Je suis développeur web junior
 
 <br/>
 
-### 6 - Groupomania (https://github.com/TenzaMickael/projet7-groupomania) - **_Non terminé_**
-
-<br/>
-
+### Groupomania (https://github.com/TenzaMickael/Groupomania) - **_Non terminé_**
 <p> Codage d'un réseau social d'entreprise de A à Z avec : </p>
-
 <p> Front-end : </p>
 
 * HTML
